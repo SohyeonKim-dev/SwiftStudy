@@ -1,2 +1,4 @@
-# Swift_study_2022
-swift &amp; IOS 개발 공부
+# Swift study 2022
+swift 문법 & IOS 개발 공부
+
+### start : 2022. 04. 18 (monday)
