@@ -39,4 +39,6 @@ class ViewController: UIViewController {
 
 
 
-// 1. view controller에
+// 1. view controller에 slier object added
+// 2. set Thunb image comment 해제
+// 3. self debugging : sucessful!  :)
