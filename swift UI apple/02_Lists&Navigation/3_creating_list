@@ -1,0 +1,23 @@
+//
+//  LandmarkList.swift
+//  swift UI colli's cat music app
+//
+//  Created by 김소현 on 2022/05/01.
+//
+
+import SwiftUI
+
+struct LandmarkList: View {
+    var body: some View {
+        List {
+            LandmarkRow(landmark: landmarks[0])
+            LandmarkRow(landmark: landmarks[1])
+        }
+    }
+}
+
+struct LandmarkList_Previews: PreviewProvider {
+    static var previews: some View {
+        LandmarkList()
+    }
+}
