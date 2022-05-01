@@ -11,7 +11,9 @@ swift 문법 & IOS 개발 공부
 
 ## IOS App Programming2 (Swift UI)
 #### 출처 : https://developer.apple.com/tutorials/swiftui
-#### 2022. 04. 29 (Friday) ~ 
+#### 2022. 04. 29 (Friday) ~ ---
 
 
 #### Colli's cat music application
+## Musiccoli app programming
+#### 2022. 05. 01 (Sunday) ~
